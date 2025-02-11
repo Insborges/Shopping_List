@@ -1,0 +1,10 @@
+# Priorizar Flutter (Dart)
+*.dart linguist-detectable=true
+
+# Ignorar CMake
+CMakeLists.txt linguist-detectable=false
+*.cmake linguist-detectable=false
+
+# Ignorar C++ (arquivos .cpp e .h)
+*.cpp linguist-detectable=false
+*.h linguist-detectable=false
